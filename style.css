@@ -189,6 +189,7 @@ button:hover{
 }
 
 #continue-button {
+  border-style: none;
   width: 200px;
   height: 40px;
   border-radius: 20px;
